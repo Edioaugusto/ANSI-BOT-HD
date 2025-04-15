@@ -13,10 +13,7 @@ const axios = require('axios')
 
 //---------[ PROPIETARIO/OWNER ]---------
 global.owner = [
-    ["50582340051", "Owner", true],
-    ["595984838201"],
-    ["51918534156"],
-    ["123456789"]
+    ["258876598622", "Owner", true],
 ]
 global.mods = []
 global.premium = []
@@ -24,11 +21,11 @@ global.blockList = []
 
 //---------[ NOMBRE/INFO ]---------
 global.pagina = "https://ansibot.netlify.app/"
-global.botname = "✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨"
+global.botname = "✨ 🇪 🇩 🇮 🇴  🇧 🇴 🇹  🇭 🇩  ✨"
 global.wm = '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨'
 global.vs = '𝟮.𝟭'
-global.creador = '𝐸𝐿𝐼𝐴𝑆𝐴𝑅 𝑌𝑇'
-global.creador2 = 'ELIASAR YT'
+global.creador = '🇪 🇩 🇮 🇴  🇭 🇩 '
+global.creador2 = '🇸 🇴 🇺 🇸 🇦  🇭 🇩 '
 global.nunber = Math.floor(Math.random() * (27 - 18 + 1)) + 18;
 
 function pickRandom(array) {
@@ -37,9 +34,9 @@ function pickRandom(array) {
 
 
 
-//Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
-global.botNumberCode = "" //Ejemplo: +59309090909
-global.phoneNumber = ""
+//Función beta : escribe el número que quiere que sea bot para que mande el Código de 9 digitos
+global.botNumberCode = "258833152230" //Ejemplo: +258876598622
+global.phoneNumber = "258876598622"
 
 //---------[ FECHA/IDIOMAS ]---------
 global.place = 'America/Managua' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
